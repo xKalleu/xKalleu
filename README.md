@@ -1,4 +1,4 @@
-### Hello 👋, I'm Kalleu 😁 
+### Hello 👋, I'm Kalleu 
 
 I am a front-end developer who likes to work with new challenges and creative projects, the pleasures of my life are playing games, listening to good music, playing some sports and enjoying the NFL.
 
